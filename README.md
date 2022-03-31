@@ -1,2 +1,2 @@
 # Emoji_Predict
- demonstration of Transfer Leraning
+ demonstration of Transfer Learning
